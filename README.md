@@ -8,11 +8,6 @@ The analysis reveals that sales and profit are highly concentrated across a smal
 
 An interactive Excel dashboard was developed to allow stakeholders to explore performance by region, retailer, product, and sales method, enabling dynamic filtering and drill-down into key business drivers.
 
-
-# Data used
-
-To execute this analysis a publicaly available dataset downloaded from kaggle was used. The dataset is a structured in a tabular .csv data with over 9,000 rows and 10 columns.
-
 # Analyses derived from the dataset
 
 ## Sales and Profit Are Highly Concentrated by Region and City:
